@@ -1,0 +1,24 @@
+{
+        "emergency": "crash_landing",
+        "user_profile": "adult_english",
+        "prompt": "Generate a short emergency instruction for a crash landing.",
+        "output": "Bend forward. Hold legs. Cover head with arms."
+    },
+    {
+        "emergency": "onboard_fire",
+        "user_profile": "elderly_hindi",
+        "prompt": "Generate a short Hindi instruction for onboard fire emergency.",
+        "output": "नीचे झुकें। दरवाज़ा खोजें। कपड़ा मुंह पर रखें।"
+    },
+    {
+        "emergency": "decompression",
+        "user_profile": "child_tamil",
+        "prompt": "Generate a simple Tamil instruction for cabin decompression.",
+        "output": "முகமூடியை அணியுங்கள். மெதுவாக மூச்சேடுக்கவும்."
+    },
+    {
+        "emergency": "turbulence",
+        "user_profile": "adult_multilingual",
+        "prompt": "Generate a universal simple phrase for severe turbulence.",
+        "output": "Stay seated. Fasten seatbelt. Remain calm."
+}
